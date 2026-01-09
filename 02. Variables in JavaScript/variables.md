@@ -1,4 +1,4 @@
-#<h1 align="center">Variables</h1>
+<h1 align="center">Variables</h1>
 
 ## Declaration Rules :
 
